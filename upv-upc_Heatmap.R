@@ -1,3 +1,6 @@
+#!/usr/bin/R
+# Author: Agent StarvingCoke, geeklys@gmail.com
+# Date: 2018-11-21
 library("data.table")
 library(REmap)
 logfile <- "game_log.tsv"
